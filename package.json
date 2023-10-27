@@ -1,0 +1,19 @@
+{
+  "name": "ublock-v-youtube-updates",
+  "version": "1.0.0",
+  "description": "a Discord webhook that updates subscribed channels on the current status of uBlock Origin's anti-anti-adblock against YouTube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/girlbuzz/ublock-v-youtube-updates.git"
+  },
+  "author": "girlbuzz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/girlbuzz/ublock-v-youtube-updates/issues"
+  },
+  "homepage": "https://github.com/girlbuzz/ublock-v-youtube-updates#readme"
+}
